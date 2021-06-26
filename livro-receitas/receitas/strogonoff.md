@@ -1,20 +1,22 @@
-#Strogonoff de Frango:chicken:
+# Strogonoff de Frango:chicken:
 
-**Negrito** _italico
 
-Ingredientes
-4 colheres (sopa) de manteiga
-1 kg de filé de frango em tiras finas
-2 cebolas picadas
-meia colher (sopa) de sal
-1 pitada de pimenta-do-reino moída
-meia xícara (chá) de conhaque
-200 g de champignons em conserva fatiados
-3 colheres (sopa) de purê de tomate
-1 colher (sopa) de mostarda
-2 colheres (sopa) de ketchup
-1 lata de NESTLÉ® Creme de Leite
-Modo de preparo
+
+## Ingredientes
+* 4 colheres (sopa) de manteiga
+* 1 kg de filé de frango em tiras finas
+* 2 cebolas picadas
+* meia colher (sopa) de sal
+* 1 pitada de pimenta-do-reino moída
+* meia xícara (chá) de conhaque
+* 200 g de champignons em conserva fatiados
+* 3 colheres (sopa) de purê de tomate
+* 1 colher (sopa) de mostarda
+* 2 colheres (sopa) de ketchup
+* 1 lata de NESTLÉ® Creme de Leite
+
+## Modo de preparo
+
 Em uma frigideira grande, derreta três colheres (sopa) da manteiga e doure o frango, aos poucos, em fogo alto.
 
 Retire a carne e coloque a manteiga restante.
@@ -29,6 +31,6 @@ Incorpore delicadamente o NESTLÉ Creme de Leite e retire do fogo antes de ferve
 
 Sirva com arroz branco.
 
-Utensílios
-DICA
+### DICA
+
 - Caso prefira, pule a etapa de flambar e siga todos os outros passos normalmente, pois isso não influenciará na textura final nem aparência do seu Strogonoff.
